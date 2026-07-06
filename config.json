@@ -1,0 +1,9 @@
+{
+  "threshold": 0.42,
+  "accuracy": 87.07,
+  "train_accuracy": 94.12,
+  "cv_mean_accuracy": 85.63,
+  "cv_std": 1.84,
+  "max_prob": 0.85,
+  "display_threshold": 87.07
+}
