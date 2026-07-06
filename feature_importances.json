@@ -1,0 +1,12 @@
+{
+  "PerformanceRating": 0.16845559544669592,
+  "OverTime_enc": 0.13549470461051666,
+  "BusinessTravel_enc": 0.12069154700064288,
+  "Gender_enc": 0.09305032621604657,
+  "Department_enc": 0.07720938990752678,
+  "MaritalStatus_enc": 0.060141537346927204,
+  "JobInvolvement": 0.05693132124250316,
+  "JobLevel": 0.055023591887596514,
+  "StockOptionLevel": 0.04548392206059987,
+  "WorkLifeBalance": 0.03573159021442634
+}
